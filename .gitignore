@@ -73,6 +73,12 @@ mono_crash.*
 *.unitypackage.meta
 *.app
 
+# Rider / JetBrains
+.idea/
+*.iml
+*.ipr
+*.iws
+
 # Crashlytics generated file
 crashlytics-build.properties
 
